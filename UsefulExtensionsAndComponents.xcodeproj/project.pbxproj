@@ -18,6 +18,7 @@
 		202F212A2016D3C500415099 /* UIViewController+Subview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202F21252016D3C400415099 /* UIViewController+Subview.swift */; };
 		202F212B2016D3C500415099 /* UIStoryboard+Loader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202F21262016D3C500415099 /* UIStoryboard+Loader.swift */; };
 		202F212C2016D3C500415099 /* UIColor+Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202F21272016D3C500415099 /* UIColor+Theme.swift */; };
+		202F21382016E69600415099 /* BindingData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202F21372016E69600415099 /* BindingData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		202F21252016D3C400415099 /* UIViewController+Subview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Subview.swift"; sourceTree = "<group>"; };
 		202F21262016D3C500415099 /* UIStoryboard+Loader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIStoryboard+Loader.swift"; sourceTree = "<group>"; };
 		202F21272016D3C500415099 /* UIColor+Theme.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Theme.swift"; sourceTree = "<group>"; };
+		202F21372016E69600415099 /* BindingData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				202F21032016D36800415099 /* ViewController.swift */,
+				202F21372016E69600415099 /* BindingData.swift */,
 				202F21222016D39000415099 /* Extensions */,
 				202F21212016D37200415099 /* Supporting Files */,
 				202F21082016D36800415099 /* Assets.xcassets */,
@@ -231,6 +234,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				202F21282016D3C500415099 /* UINib+Loader.swift in Sources */,
+				202F21382016E69600415099 /* BindingData.swift in Sources */,
 				202F21042016D36800415099 /* ViewController.swift in Sources */,
 				202F21292016D3C500415099 /* NSTimer+Closure.swift in Sources */,
 				202F212B2016D3C500415099 /* UIStoryboard+Loader.swift in Sources */,
