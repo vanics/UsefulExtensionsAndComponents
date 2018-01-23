@@ -6,6 +6,8 @@
 //  Copyright © 2018 vanics. All rights reserved.
 //
 
+// http://rasic.info/bindings-generics-swift-and-mvvm/
+
 import Foundation
 
 class Dynamic<T> {
